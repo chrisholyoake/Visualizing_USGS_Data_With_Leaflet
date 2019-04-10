@@ -53,4 +53,4 @@ Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplate
 
 ## Author
 
-Christine Ton
+Chris Holyoake
